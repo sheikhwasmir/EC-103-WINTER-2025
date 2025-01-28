@@ -24,5 +24,5 @@ EC 103 || Basic Electronic Circuits || Winter Semester || AY 2024-25
 | 2   | Mid Semester     |15th Feb -- 23rd Feb |To be announced| 
 | 3   | Second Quiz      |March 2nd Week |To be announced| 
 | 4   | Surprise Quiz    |Any lecture day |To be announced| 
-| 4   | End Semester    |26th April -- 4th May |To be announced| 
+| 5   | End Semester    |26th April -- 4th May |To be announced| 
 
