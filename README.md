@@ -18,11 +18,11 @@ EC 103 || Basic Electronic Circuits || Winter Semester || AY 2024-25
 
 
 ### Exam
-| Sl. No. | Exam | Date| Time| 
+| Sl. No. | Exam | Date| Time| | Relevant File| 
 |:---:|:--:|:--|:--------------------------:|
-| 1   | First Quiz       |Feb 1st Week |To be announced| 
-| 2   | Mid Semester     |15th Feb -- 23rd Feb |To be announced| 
-| 3   | Second Quiz      |March 2nd Week |To be announced| 
-| 4   | Surprise Quiz    |Any lecture day |To be announced| 
-| 5   | End Semester    |26th April -- 4th May |To be announced| 
+| 1   | First Quiz       |11-Feb |5:30-6:30 pm| [NA]()|
+| 2   | Mid Semester     |21-Feb |2:00-4:00 pm| [Click here](https://drive.google.com/file/d/1nXrVjdfMyZQGvHNL_-6iKvVXOPEZ_Wt6/view?usp=drive_link)|
+| 3   | Second Quiz      |March 2nd Week |To be announced| [NA]()|
+| 4   | Surprise Quiz    |Any lecture day |To be announced| [NA]()|
+| 5   | End Semester    |26th April -- 4th May |To be announced| [NA]()|
 
