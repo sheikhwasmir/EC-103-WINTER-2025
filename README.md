@@ -20,7 +20,7 @@ EC 103 || Basic Electronic Circuits || Winter Semester || AY 2024-25
 | Sl. No. | Date | Title | Link to File|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
 | 1   | 20 to 24-April-2025    |Digital to Analaog Convertor | [Click here](https://drive.google.com/file/d/147lzLtqLdKnrRgQC0RsvSoOF_52XRU4P/view?usp=drive_link)| 
-| 2   | 24-April-2025     |Analog to Digital Convertor Convertor| [Click here](https://drive.google.com/file/d/1KrKel-5T7hEy5iQfK_LfHc8re-e9syvW/view?usp=drive_link)| 
+| 2   | 24-April-2025     |Analog to Digital Convertor| [Click here](https://drive.google.com/file/d/1KrKel-5T7hEy5iQfK_LfHc8re-e9syvW/view?usp=drive_link)| 
 | 3   | 24-April-2025     |Additonal Notes on DAC & ADC | [Click here](https://drive.google.com/file/d/1hCS4sFPk93OSyDl8BxWDQtqLjSBkSiRJ/view?usp=drive_link)|
 | 3   | 24-April-2025     |End Sem 2024 Question on DAC & ADC | [Click here](https://drive.google.com/file/d/1o4XlZmeOsKpZuRMOfGPM8joF9mxOtrAE/view?usp=drive_link)| 
 
