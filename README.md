@@ -7,14 +7,14 @@ EC 103 || Basic Electronic Circuits || Winter Semester || AY 2024-25
 ### Syllabus
 | Sl. No. | Module | Topic  | Study Material List|                                                                                              
 |:---:|:--:|:--|:--------------------------:|
-| 1 (1)     | Module I      |Diode & Diode Applications | [Click here](https://drive.google.com/file/d/1nXrVjdfMyZQGvHNL_-6iKvVXOPEZ_Wt6/view?usp=drive_link)| 
-| 1 (2)   | Module I      |Zener Diode & Regulation| [Click here](https://drive.google.com/file/d/1r5ZVA7gSLzGQjyOI37WsKqLfTt6-KFM8/view?usp=drive_link)|   
-| 2       | Module II     |Amplifiers & Op-amps| [Click here](https://drive.google.com/file/d/1YN0sDp4b2JxyMx88DVXiAHH0BE7zBJc2/view?usp=drive_link)| 
-| 3       | Module III    |Filters| [Click here](https://drive.google.com/file/d/1gSWUr99PujgpJ81hZ8fA8jbgHngy7CkZ/view?usp=drive_link)|
-| 4       | Module IV     |Feedbacks & Oscillators | [Click here](https://drive.google.com/file/d/1iYshOm-bmEK0umz-KAZatn5gBDdp15NP/view?usp=drive_link)|
-| 5       | Module V      |Comparators, Schmitt Triggers & 555 Timer | [Click here](https://drive.google.com/file/d/1jdUDvC9W0tQAbnXML02yu7IbwuGdYw5C/view?usp=drive_link)|
-| 6       | Module VI     |Waveform Generators | [Click here](https://drive.google.com/file/d/17BUJcNpx--W1GZMEE2fe4goxwQVGND_B/view?usp=drive_link)|
-| 7       | Module VII    |Analog-Digital Conversion | [Click here](https://drive.google.com/file/d/1rNZG7YNIVllkvws8g3PKkGHF2JPEzd0v/view?usp=drive_link)|
+| 1     | Module I     |Diode & Diode Applications | [Click here](https://drive.google.com/file/d/1JBrCC8Mr1Fhvoy-1ALAPr-mkpEk3yLwo/view?usp=drive_link)| 
+| 2     | Module I      |Zener Diode & Regulation| [Click here](https://drive.google.com/file/d/1TeFbQ344nqOlivMV49ygEMoUTQlz0Xvb/view?usp=drive_link)|   
+| 3     | Module II     |Amplifiers & Op-amps| [Click here](https://drive.google.com/file/d/1DNpW0-52307NsA7ZF4PNi6caJvkFldYP/view?usp=drive_link)| 
+| 4     | Module III    |Filters| [Click here](https://drive.google.com/file/d/12OklX__rz7aRsjCJNNpmHNLupsoM9BEO/view?usp=drive_link)|
+| 5     | Module IV     |Feedbacks & Oscillators | [Click here](https://drive.google.com/file/d/1dcKYgoKNSNGWBziJyZrn3XsNGQYnR-rO/view?usp=drive_link)|
+| 6     | Module V      |Comparators, Schmitt Triggers & 555 Timer | [Click here](https://drive.google.com/file/d/1VvZusiy02vAmNJCL_XirfWXGj-HWYP4a/view?usp=drive_link)|
+| 7     | Module VI     |Waveform Generators | [Click here](https://drive.google.com/file/d/1vhIdm-QYaH4NMWgxw6qtYPl5dAuHftmQ/view?usp=drive_link)|
+| 8     | Module VII    |Analog-Digital Conversion | [Click here](https://drive.google.com/file/d/1kz_oUCHjn0VeIVxZnut4uG5_o3cLQKhI/view?usp=drive_link)|
 
 ### Lecture Notes
 | Sl. No. | Date | Title | Link to File|                                                                                              
@@ -31,7 +31,7 @@ EC 103 || Basic Electronic Circuits || Winter Semester || AY 2024-25
 |:---:|:--:|:--|:--------------------------:|:------------:|
 | 1   | First Quiz       |11-Feb |5:30-6:30 pm| [NA]()|
 | 2   | Mid Semester     |21-Feb |2:00-4:00 pm| [Click here](https://drive.google.com/file/d/1nXrVjdfMyZQGvHNL_-6iKvVXOPEZ_Wt6/view?usp=drive_link)|
-| 3   | Second Quiz      |March 2nd Week |To be announced| [NA]()|
-| 4   | Surprise Quiz    |Any lecture day |To be announced| [NA]()|
-| 5   | End Semester    |26th April -- 4th May |To be announced| [NA]()|
+| 3   | Second Quiz      |27-Mar |9:00-10:00 am| [NA]()|
+| 4   | Surprise Quiz    |Cancelled |NA| [NA]()|
+| 5   | End Semester    |1-April |2:00-5:00 pm| [NA]()|
 
